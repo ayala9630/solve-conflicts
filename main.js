@@ -1,5 +1,5 @@
 const a=()=>{
-    return 'a'
+    return 'function a'
 }
 
 const b=()=>{
